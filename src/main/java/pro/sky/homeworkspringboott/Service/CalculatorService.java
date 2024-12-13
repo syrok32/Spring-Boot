@@ -1,6 +1,7 @@
-package pro.sky.homeworkspringboott;
+package pro.sky.homeworkspringboott.Service;
 
 import org.springframework.stereotype.Service;
+import pro.sky.homeworkspringboott.Controller.CalculatorServiceInter;
 
 @Service
 public class CalculatorService implements CalculatorServiceInter {
