@@ -9,3 +9,4 @@ public interface CalculatorServiceInter {
 
     int divideCalculate(Integer num1, Integer num2);
 }
+
