@@ -1,4 +1,4 @@
-package pro.sky.homeworkspringboott;
+package pro.sky.homeworkspringboott.Controller;
 
 public interface CalculatorServiceInter {
     int plusCalculate(Integer num1, Integer num2);
